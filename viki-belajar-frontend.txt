@@ -1,0 +1,4 @@
+saya adalah viki.. salam kenal
+
+saya ingin belajar bersama untuk mempelajari frontend
+ - react JS
